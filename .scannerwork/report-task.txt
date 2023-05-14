@@ -1,0 +1,6 @@
+projectKey=clase_devops
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=clase_devops
+ceTaskId=AYgawgr9rDVvK90BlmXD
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgawgr9rDVvK90BlmXD
